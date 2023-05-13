@@ -1,0 +1,29 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  color: var(--white);
+}
+
+html {
+  height: 100% !important;
+}
+.div {
+
+}
+#app {
+  height: 100%;
+}
+body {
+  height: 100%;
+  background: var(--dark);
+}
+
+//main {
+//  height: 100%;
+//  max-height: 100%;
+//  flex-grow: 1;
+//  //display: flex;
+//  //overflow: hidden;
+//  background: var(--dark);
+//}
